@@ -6,7 +6,7 @@ namespace Multiverse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world Master!");
+            Console.WriteLine("Hello world WorldC!");
         }
     }
 }
