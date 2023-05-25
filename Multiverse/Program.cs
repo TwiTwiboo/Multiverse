@@ -6,7 +6,8 @@ namespace Multiverse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Master!");
         }
     }
 }
+//C: \Users\stagiaire\scoop\apps\git\current\bin
